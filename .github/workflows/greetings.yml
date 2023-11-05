@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Hi, there is issue with your latest commit!"
-        pr-message: "Hi, congrats on your first request!"
+        pr-message: "Hi, congrats on your first pull request!"
