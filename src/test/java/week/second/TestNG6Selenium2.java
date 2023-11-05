@@ -79,7 +79,7 @@ public class TestNG6Selenium2 {
 
 
         String invalidCredMsgText = invalidCredMsg.getText();
-        String expectedValue = "IEpic sadface: Username is required";
+        String expectedValue = "Epic sadface: Username and password do not match any user in this service";
 
 
         assertEquals(invalidCredMsgText, expectedValue,
@@ -96,7 +96,7 @@ public class TestNG6Selenium2 {
                 {"abc","sdasd"},
                 {"user", "passwor"},
                 {"users", "password"},
-                {" user ", " password "}
+                {" user ", " password "},
         };
 
     }
