@@ -69,6 +69,6 @@ MAVEN_HOME
 ![Example4](https://i.stack.imgur.com/d9bfW.png)
 
 
-Time smo namestili nase razvojno okruzenje
+Time smo namestili nase razvojno okruzenje.
 
 
