@@ -22,7 +22,7 @@ Pre samog početka potrebno je skinuti Java 11 biblioteku.<br>
 To cemo uradi tako što će mo otici na lokaciju [Java JDK Archiva](https://jdk.java.net/archive/) zatim 
 naći 11.0.2(build 11.0.2+9) i kliknuti na Windows 64-bit zip link. Nakon toga otvoriće se prozor 
 gde cemo sacuvati ovaj fajl. <br>
-Posto smo sačuvali fajl potreno ga je otpakovati - desnim klikom mišy na fajl i izabrati opciju **Extreact All...** zatim u novom prozoru
+Posto smo sačuvali fajl potreno ga je otpakovati - desnim klikom miša na fajl i izabrati opciju **Extreact All...** zatim u novom prozoru
 kliknuti na **Extract** dugme u donjem desnom uglu. <br>
 Nakon toga potrebno je u System varaibles **JAVA_HOME** staviti putanju do otpakovanog foldera, to radimo tako što odemo
 u **System Properties > Environment Variables** i u System variables kliknemo na New.. dugme i dodamo novu varijablu JAVA HOME, 
@@ -47,7 +47,7 @@ korektna verzija jave znači da smo sve dobro podesili.
 <br>
 
 **Maven** <br>
-Isto što smo uradili sa Javom moramo uraditi i sa Maven bibliotekom: <br>
+Isto što smo uradili sa Javom moramo sada uraditi i sa Maven bibliotekom: <br>
 Otićićemo na sledecu lokaciju [Apache Maven](https://maven.apache.org/download.cgi) i kliknuti na **Binary zip archive** i 
 sačuvati fajl na proizvoljnoj lokaciji.<br>
 Takodje moramo otpakovati ovaj skinuti maven folder i zatim isto tako napraviti M2_HOME varijablu u System variables sa lokacijom
